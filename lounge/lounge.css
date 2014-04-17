@@ -35,6 +35,7 @@ h2 {
 }
 
 #elixirs {
+        float:        right;
         border-width: thin;
         border-style: solid;
         border-color: #007e7e;
