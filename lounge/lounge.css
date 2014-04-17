@@ -83,3 +83,11 @@ a:hover {
     color:     #0d5353;
 }
 
+.cd {
+    font-style: italic;
+}
+
+.artist {
+    font-weight: bold;
+}
+
